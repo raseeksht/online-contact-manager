@@ -1,0 +1,13 @@
+
+
+:root{
+
+}
+.edit{
+	position: fixed;
+	bottom: 10px;
+	right: 10px;
+}
+.number,.usr_number{
+	letter-spacing: 2px;
+}
